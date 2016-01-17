@@ -1,4 +1,8 @@
-core-icon
+Maven Demo
 =========
 
-See the [component page](http://polymer-project.org/docs/elements/core-elements.html#core-icon) for more information.
+See the [video tutorial](www.youtube.com) for more information.
+
+See project captura for a detailed readme and project
+
+Thanks!
